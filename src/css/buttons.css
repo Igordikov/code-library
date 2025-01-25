@@ -1,0 +1,12 @@
+
+@import url(../../node_modules/bulma/css/bulma.min.css);
+
+.btn-container {
+    
+    padding-top: 30px;
+}
+
+.buttons-list {
+    display: flex;
+    gap: 30px;
+}

@@ -1,0 +1,26 @@
+
+@import url(./css/reset.css);
+
+@import url(../node_modules/bootstrap/dist/css/bootstrap-grid.min.css);
+
+@import url(../node_modules/bulma/css/bulma.min.css);
+
+
+
+
+
+.title-section {
+    padding-top: 50px;
+}
+
+
+.title-list {
+    display: flex;
+    column-gap: 20px;
+}
+
+
+
+
+
+

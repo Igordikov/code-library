@@ -1,0 +1,12 @@
+
+@import url(../styles.css);
+
+.btn-anim-css {
+    margin-bottom: 30px;
+}
+
+.page-list {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
